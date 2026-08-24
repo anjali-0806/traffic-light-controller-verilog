@@ -60,4 +60,10 @@ RED → GREEN → YELLOW → RED
 - Add pedestrian crossing control
 - Implement the design on an FPGA board
 
+## Simulation Waveform
+
+The following waveform verifies the correct operation of the traffic light controller:
+
+![Traffic Light Simulation Waveform](traffic_light_waveform.png)
+
 
